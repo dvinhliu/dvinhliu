@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" src="https://profile-counter.glitch.me/dvinhliu/count.svg" />
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-dvinhliu&color=blue" />
 <!--
 **dvinhliu/dvinhliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
