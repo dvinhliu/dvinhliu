@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/dr0xghsna/image/upload/v1730226574/giphy_1.webp" style="width:2000px"/>
 <h3 align="center">Hi there 👋</h1>
 <h3 align="center">Welcome to my Github Profile!</h3>
 <p align="center">
